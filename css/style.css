@@ -217,9 +217,9 @@ p {
 /* ------------------ SERVICES ------------------ */
 
 
-.services {
+/* .services {
 
-}
+} */
 .services .cards-wrapper {
     display: flex;
     justify-content: space-between;
@@ -243,13 +243,13 @@ p {
 
 /* ------------------ TAB SECTION ------------------ */
 
-.tab-section {
+/* .tab-section {
 
 }
 
 .tabs {
 
-}
+} */
 
 .tabs__nav {
     margin-bottom: 50px;
@@ -273,9 +273,9 @@ p {
     margin-left: 15px;
 }
 
-.tabs__item {
+/* .tabs__item {
 
-}
+} */
 
 .tabs__item img {
     margin-bottom: 15px;
@@ -297,9 +297,9 @@ p {
 /* ------------------ TAB SECTION ------------------ */
 
 
-.footer {
+/* .footer {
 
-}
+} */
 
 .footer__desc {
     padding: 35px 0;
@@ -358,13 +358,13 @@ p {
     color: #676770;
 }
 
-.footer__about {
+/* .footer__about {
 
 }
 
 .footer__links {
 
-}
+} */
 
 .footer__social img {
     width: 20px;
